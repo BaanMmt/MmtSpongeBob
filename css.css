@@ -96,7 +96,7 @@ body {
     
     /* home ---- */
     #articleKhane .banner {
-        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/Header.jpg");
+        background: url("./Header.jpg");
         background-size: cover;
         background-position: center;
         height: 15rem;
