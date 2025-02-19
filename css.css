@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MikhakMedium';
-    src: url("./font/Mikhak-Medium.ttf") format('woff2');
+    src: url("https://aminabedi68.github.io/Mikhak/Mikhak/Mikhak-Medium.woff2") format('woff2');
 }
 * {
     margin: 0;
@@ -96,7 +96,7 @@ body {
     
     /* home ---- */
     #articleKhane .banner {
-        background: url(Header.jpg);
+        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/Header.jpg");
         background-size: cover;
         background-position: center;
         height: 15rem;
@@ -296,7 +296,7 @@ body {
     /* profail */
     #articlePorofail .banner {
         
-        background: url(./images/LogoHeader.jpg);
+        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/LogoHeader.jpg");
         background-size: cover;
         background-position: bottom;
         height: 23rem;
@@ -346,17 +346,17 @@ body {
         border: solid;
     }
     #divChannel .svg , #divPv .svg{
-        background: url("./icones/telegram-01.svg");
+        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/telegram-01.svg");
         height: 1rem;
         width: 1rem;
     }
     #divGmail .svg {
-        background: url("./icones/email-01.svg");
+        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/email-01.svg");
         height: 1rem;
         width: 1rem;
     }
     #divWeb .svg {
-        background: url("./icones/home-01.svg");
+        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/home-01.svg");
         height: 1rem;
         width: 1rem;
     }
