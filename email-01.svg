@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-4ce74da0-68ba-4d39-a1be-701a863d979e" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .uuid-89ea1289-6212-411f-bf31-5ea0011fd5c3 {
+        fill: none;
+      }
+
+      .uuid-89ea1289-6212-411f-bf31-5ea0011fd5c3, .uuid-f2ff9eb5-d09d-492a-a147-118127e97817 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-f2ff9eb5-d09d-492a-a147-118127e97817 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="uuid-212164b3-705e-45e3-9591-8b4fdbaf9aff" data-name="email">
+    <path class="uuid-f2ff9eb5-d09d-492a-a147-118127e97817" d="m2.82,24.65h24.37c1.14,0,2.07-.93,2.07-2.07V7.41c0-1.14-.93-2.07-2.07-2.07H2.82c-1.14,0-2.07.93-2.07,2.07v15.17c0,1.14.93,2.07,2.07,2.07Z"/>
+    <path class="uuid-89ea1289-6212-411f-bf31-5ea0011fd5c3" d="m29.25,8.41l-13.23,10.55c-.6.48-1.44.48-2.04,0L.75,8.41"/>
+    <line class="uuid-89ea1289-6212-411f-bf31-5ea0011fd5c3" x1="9.02" y1="15" x2=".75" y2="22.27"/>
+    <line class="uuid-89ea1289-6212-411f-bf31-5ea0011fd5c3" x1="21.39" y1="15" x2="29.25" y2="22.27"/>
+  </g>
+</svg>

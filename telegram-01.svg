@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-ac41cdd0-17c9-4310-9898-2b0331684b68" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .uuid-6add1953-6196-49cf-8977-788a98ca9c3d {
+        opacity: .3;
+      }
+
+      .uuid-6add1953-6196-49cf-8977-788a98ca9c3d, .uuid-da0019fc-7604-41ce-8387-0fe321573067, .uuid-2b5cd607-ccd6-456e-ad65-87d79f97224a {
+        stroke-width: 0px;
+      }
+
+      .uuid-6add1953-6196-49cf-8977-788a98ca9c3d, .uuid-2b5cd607-ccd6-456e-ad65-87d79f97224a {
+        fill: #231f20;
+      }
+
+      .uuid-da0019fc-7604-41ce-8387-0fe321573067 {
+        fill: #fff;
+      }
+
+      .uuid-2b5cd607-ccd6-456e-ad65-87d79f97224a {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <path class="uuid-da0019fc-7604-41ce-8387-0fe321573067" d="m29.24,3.43l-4.4,22.69c-.22,1.11-1.53,1.6-2.42.9l-6.31-4.94-3.81,3.89c-.21.21-.5.24-.73.12-.14-.07-.26-.2-.31-.38l-2.53-8.5-6.62-2.34c-.81-.29-.83-1.43-.03-1.74L28.35,2.7c.48-.19.98.23.88.73Z"/>
+  <g id="uuid-d47db9e6-2b6d-4d7f-9beb-7b509b7a7524" data-name="telegram">
+    <path class="uuid-2b5cd607-ccd6-456e-ad65-87d79f97224a" d="m16.11,22.09l-3.81,3.89c-.21.21-.5.24-.73.12l.78-6.95,3.76,2.94Z"/>
+    <path class="uuid-6add1953-6196-49cf-8977-788a98ca9c3d" d="m24.67,6.83l-12.31,12.31-.78,6.95c-.14-.07-.26-.2-.31-.38l-2.53-8.5,15.76-10.61c.15-.1.31.1.18.22Z"/>
+  </g>
+</svg>
