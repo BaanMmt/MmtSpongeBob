@@ -96,7 +96,7 @@ body {
     
     /* home ---- */
     #articleKhane .banner {
-        background: url("./Header.jpg");
+        background: url("Header.jpg");
         background-size: cover;
         background-position: center;
         height: 15rem;
@@ -296,7 +296,7 @@ body {
     /* profail */
     #articlePorofail .banner {
         
-        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/LogoHeader.jpg");
+        background: url("LogoHeader.jpg");
         background-size: cover;
         background-position: bottom;
         height: 23rem;
@@ -346,17 +346,17 @@ body {
         border: solid;
     }
     #divChannel .svg , #divPv .svg{
-        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/telegram-01.svg");
+        background: url("telegram-01.svg");
         height: 1rem;
         width: 1rem;
     }
     #divGmail .svg {
-        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/email-01.svg");
+        background: url("email-01.svg");
         height: 1rem;
         width: 1rem;
     }
     #divWeb .svg {
-        background: url("https://github.com/BaanMmt/MmtSpongeBob/blob/main/home-01.svg");
+        background: url("home-01.svg");
         height: 1rem;
         width: 1rem;
     }
