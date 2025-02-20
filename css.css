@@ -96,7 +96,7 @@ body {
     
     /* home ---- */
     #articleKhane .banner {
-        background: url("Header.jpg");
+        background: url("./images/Header.jpg");
         background-size: cover;
         background-position: center;
         height: 15rem;
@@ -296,7 +296,7 @@ body {
     /* profail */
     #articlePorofail .banner {
         
-        background: url("https://raw.githubusercontent.com/BaanMmt/MmtSpongeBob/refs/heads/main/LogoHeader.jpg");
+        background: url("./images/LogoHeader.jpg");
         background-size: cover;
         background-position: bottom;
         height: 23rem;
@@ -356,7 +356,7 @@ body {
         width: 1rem;
     }
     #divWeb .svg {
-        background: url("https://raw.githubusercontent.com/BaanMmt/MmtSpongeBob/refs/heads/main/home-01.svg");
+        background: url("./icons/home-01.svg");
         height: 1rem;
         width: 1rem;
     }
