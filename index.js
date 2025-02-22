@@ -470,6 +470,3 @@ const btnImdb = document.querySelector('.btnImdb');
 btnImdb.onclick = () => {
     window.open("https://www.imdb.com/title/tt0206512/?ref_=ttep_ov");
 };
-buttonD.onclick = () => {
-    window.open(item.download, '_blank');
-};
