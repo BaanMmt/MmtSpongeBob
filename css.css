@@ -36,6 +36,10 @@ body {
     background: var(--siahTire);
     color: white;
 }
+.boxOther .btn {
+    border: none;
+    outline: none;
+}
 
 @media (max-width: 480px) {
     body {
@@ -70,6 +74,8 @@ body {
         align-items: center;
         justify-content: center;
         overflow: hidden;
+        font-weight: 700;
+
 
     }
     aside button:hover{
@@ -204,6 +210,23 @@ body {
         padding: 0.1rem 0.3rem;
         border-radius: 1rem;
         overflow: hidden;
+    }
+    .btnImdb {
+        margin-top: 1rem;
+        padding: 0.1rem 1rem;
+        background: var(--Bob);
+        border-radius: 2rem;
+        font-weight: 600;
+        border: 0.05rem solid black;
+        box-shadow: 1px 1px 4px black;
+        transition: all 0.5s 0.3s;
+    }
+    .btnImdb:hover {
+        border: 0.05rem solid var(--Bob);
+        background: black;
+        border-radius: 0.5rem;
+        box-shadow: 1px 1px 4px var(--zardTalaei);
+        color: var(--Bob);
     }
     /* jostejo */
 
@@ -550,6 +573,7 @@ body {
         border-radius: 2rem;
         overflow: hidden;
     }
+    
     /* jostejo */
 
     #articleJosteju {
@@ -567,7 +591,7 @@ body {
         width: 80%;
         direction: ltr;
         height: 10rem;
-        font-size: 50px;
+        font-size: 60px;
         margin-bottom: 3rem;
     }
     .searchBoxNatayej {
