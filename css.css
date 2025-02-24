@@ -225,9 +225,11 @@ body {
         font-weight: 600;
         font-size: 16px;
         margin-bottom: 1rem;
+        color: var(--zardTalaei);
     }
     .divTrailer video {
         width: 100%;
+        border-radius: 1rem;
     }
     .btnImdb {
         padding: 0.1rem 1rem;
