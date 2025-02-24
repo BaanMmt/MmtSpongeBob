@@ -307,6 +307,7 @@ selectedSeasons.addEventListener("change", function(){
 
 const search = document.querySelector(".searchInput");
 const natayejSearch = document.querySelector('.searchBoxNatayej');
+const tedadNatayejSearch = natayejSearch.children.length;
 const filtersSearch = {searchItem: '',};
 const divEpisode = document.querySelector('.divEpisode');
 
@@ -348,8 +349,19 @@ search.addEventListener("input", e => {
     filtersSearch.searchItem = e.target.value ;
     renderSearchEpisode(allSeason, filtersSearch);
 });
+const tedadNatayejBox = document.querySelector('.tedadNatayejBox');
+const pTedadSearch = document.querySelector('.pTedadSearch')
+pTedadSearch.innerHTML = `تعداد نتایج: ${tedadNatayejSearch}`;
 
+if (tedadNatayejSearch > 0) {
+    tedadNatayejBox.style.display = 'block';
+    pTedadSearch.innerHTML = `تعداد نتایج: ${tedadNatayejSearch}`;
 
+} else {
+    tedadNatayejBox.style.display = 'none';
+
+}
+console.log(tedadNatayejSearch)
 const AkharinUploadQesmat = document.querySelector('.qesmat') ;
 const qesmat = s02.length;
 AkharinUploadQesmat.innerHTML = qesmat;
