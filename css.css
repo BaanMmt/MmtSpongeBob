@@ -215,8 +215,21 @@ body {
         border-radius: 1rem;
         overflow: hidden;
     }
+    .divTrailer {
+        padding: 1rem 0.5rem;
+        border: 0.1rem solid var(--zardTalaei);
+        border-radius: 1rem;
+        margin: 1rem 0;
+    }
+    .divTrailer p {
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 1rem;
+    }
+    .divTrailer video {
+        width: 100%;
+    }
     .btnImdb {
-        margin-top: 1rem;
         padding: 0.1rem 1rem;
         background: var(--Bob);
         border-radius: 2rem;
