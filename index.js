@@ -208,6 +208,9 @@ const s02 = [
     {episode: "S02E27: Frankendoodle",
         download: "https://drive.google.com/file/d/1WjjAqOAdsynyotJAcl66aNuO3t8I6A-r/view?usp=drive_link"
     },
+    {episode: 'S02E28: The Secret Box',
+        download: "https://drive.google.com/file/d/1DSLdCYx5qY6qtSn1_mExf844QEzfE98Y/view?usp=drive_link"
+    }
 ];
 
 const allSeason = [...s01, ...s02];
