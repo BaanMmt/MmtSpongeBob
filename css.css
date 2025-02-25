@@ -406,6 +406,12 @@ body {
         height: 1rem;
         width: 1rem;
     }
+    .divVideo {
+        background: #00bcd4;
+    }
+    .divVideo video {
+        width: 100%;
+    }
 
 }
 

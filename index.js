@@ -210,6 +210,9 @@ const s02 = [
     },
     {episode: 'S02E28: The Secret Box',
         download: "https://drive.google.com/file/d/1DSLdCYx5qY6qtSn1_mExf844QEzfE98Y/view?usp=drive_link"
+    },
+    {episode: "S02E29: Band Geeks",
+        download: "https://drive.google.com/file/d/19mQ7PiAlqeorPpFyR-wgaASAe4XDw11N/view?usp=drive_link"
     }
 ];
 
