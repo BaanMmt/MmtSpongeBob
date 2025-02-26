@@ -214,7 +214,7 @@ const s02 = [
     {episode: "S02E29: Band Geeks",
         download: "https://drive.google.com/file/d/19mQ7PiAlqeorPpFyR-wgaASAe4XDw11N/view?usp=drive_link"
     },
-    {episode: "S02E30: Graveyard Shift"
+    {episode: "S02E30: Graveyard Shift",
         download: "https://drive.google.com/file/d/1ilXLb6xvopP9x0x7Ew6lKP3nhPmwSs4x/view?usp=drive_link"
     }
 ];
