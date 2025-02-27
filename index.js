@@ -216,6 +216,9 @@ const s02 = [
     },
     {episode: "S02E30: Graveyard Shift",
         download: "https://drive.google.com/file/d/1ilXLb6xvopP9x0x7Ew6lKP3nhPmwSs4x/view?usp=drive_link"
+    },
+    {episode: "S02E31: Krusty Love",
+        download: "https://drive.google.com/file/d/1uxJrHKsBGf6PjDB5vFPgmQmb7toKg00B/view?usp=drivesdk"
     }
 ];
 
