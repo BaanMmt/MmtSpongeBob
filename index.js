@@ -219,6 +219,12 @@ const s02 = [
     },
     {episode: "S02E31: Krusty Love",
         download: "https://drive.google.com/file/d/1uxJrHKsBGf6PjDB5vFPgmQmb7toKg00B/view?usp=drivesdk"
+    }, 
+    {episode: 'S02E32: Procrastination',
+        download: 'https://drive.google.com/file/d/18FmmbErXSSyPRL3eX48QW8zPEcOMOgD4/view?usp=drive_link'
+    }, 
+    {episode: `S02E33: I'm with Stupid`,
+        download: ''
     }
 ];
 
