@@ -224,7 +224,10 @@ const s02 = [
         download: 'https://drive.google.com/file/d/18FmmbErXSSyPRL3eX48QW8zPEcOMOgD4/view?usp=drive_link'
     }, 
     {episode: `S02E33: I'm with Stupid`,
-        download: ''
+        download: 'https://drive.google.com/file/d/1TAVFUeLTRw5L2ix9kWfHDd5NGphMnfKK/view?usp=drivesdk'
+    },
+    {episode: `S02E34: Sailor Mouth`,
+        download: "https://drive.google.com/file/d/1xukNbJO6TrGQe6MHw779w_w9ZgqEq0S_/view?usp=drivesdk"
     }
 ];
 
