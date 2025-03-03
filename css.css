@@ -149,7 +149,8 @@ body {
         background: rgba(0, 0, 0, 0.5);
         border-radius: 1rem;
         margin-bottom: 1rem;
-        padding: 0.5rem;
+        padding: 1rem;
+        text-align: right;
     }
     .bio {
         
