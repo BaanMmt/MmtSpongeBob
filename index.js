@@ -228,6 +228,9 @@ const s02 = [
     },
     {episode: `S02E34: Sailor Mouth`,
         download: "https://drive.google.com/file/d/1xukNbJO6TrGQe6MHw779w_w9ZgqEq0S_/view?usp=drivesdk"
+    },
+    {episode: "S02E35: Artist Unknown",
+        download:"https://drive.google.com/file/d/1cbHOHxxuWKjPHg6I5LC8MFdhFeuNV4-R/view?usp=drivesdk"
     }
 ];
 
