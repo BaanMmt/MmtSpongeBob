@@ -231,6 +231,9 @@ const s02 = [
     },
     {episode: "S02E35: Artist Unknown",
         download:"https://drive.google.com/file/d/1cbHOHxxuWKjPHg6I5LC8MFdhFeuNV4-R/view?usp=drivesdk"
+    },
+    {episode: "S02E36: Jellyfish Hunter",
+        download:"https://drive.google.com/file/d/1i0abalYeebbwBLpVoc6AV_9uq_P1E0VU/view?usp=drivesdk"
     }
 ];
 
