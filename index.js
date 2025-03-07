@@ -236,7 +236,10 @@ const s02 = [
         download:"https://drive.google.com/file/d/1i0abalYeebbwBLpVoc6AV_9uq_P1E0VU/view?usp=drivesdk"
     },
     {episode: "S02E37: The Fry Cook Games",
-     download: "https://drive.google.com/file/d/1W-sWHVPHfB9IH-6fU8Q0kdUXQovWNidS/view?usp=drivesdk"
+        download: "https://drive.google.com/file/d/1W-sWHVPHfB9IH-6fU8Q0kdUXQovWNidS/view?usp=drivesdk"
+    },
+    {episode: "S02E38: Squid on Strike"
+        download: "https://drive.google.com/file/d/1_ORPF6I5ZII6d3DC7_d9rBTfiL1pXfOD/view?usp=drivesdk"
     }
 ];
 
