@@ -247,7 +247,7 @@ const s02 = [
 ];
 const s03 = [
     {episode: "S03E01: The Algae's Always Greener",
-        download: ""
+        download: "https://drive.google.com/file/d/16pI0UfFCXGe1SCVZPOrw8xl2IfbNG9bP/view?usp=drivesdk"
     }
 
 ];
