@@ -245,8 +245,14 @@ const s02 = [
         download: "https://drive.google.com/file/d/1bCsNQ8zZ3xueIXWtG_EQJSxsoMOZ-x8F/view?usp=drivesdk"
     }
 ];
+const s03 = [
+    {episode: "S03E01: The Algae's Always Greener",
+        download: ""
+    }
 
-const allSeason = [...s01, ...s02];
+];
+
+const allSeason = [...s01, ...s02, ...s03];
 // -------------------------------
 
 
@@ -314,6 +320,30 @@ s02.forEach(item => {
     boxS02.appendChild(box);
 });
 
+s03.forEach(item => {
+    const box = document.createElement('div');
+    box.className = "divEpisode";
+
+    const boxDandW = document.createElement('div');
+    boxDandW.className="boxDandW";
+
+    const buttonD = document.createElement('button');
+    buttonD.innerText="click!";
+    buttonD.onclick = () => {
+        window.open(item.download, '_blank');
+    };
+
+    const boxNumberName = document.createElement('p');
+    boxNumberName.innerText = `${item.episode}`;
+
+    box.appendChild(boxNumberName);
+
+    boxDandW.appendChild(buttonD);
+
+    box.appendChild(boxDandW);
+
+    boxS03.appendChild(box);
+});
 
 selectedSeasons.addEventListener("change", function(){
     boxS01.classList.add('hidden');
@@ -327,6 +357,10 @@ selectedSeasons.addEventListener("change", function(){
         boxS02.classList.remove('hidden');
         boxNoSend.style.display = 'none';
 
+    } else if (this.value === 'S03') {
+        boxS03.classList.remove('hidden');
+        boxNoSend.style.display = "none";
+        
     } else if (this.value === 'S00') {
         boxNoSend.style.display = 'none';
 
@@ -396,7 +430,7 @@ if (tedadNatayejSearch > 0) {
 }
 console.log(tedadNatayejSearch)
 const AkharinUploadQesmat = document.querySelector('.qesmat') ;
-const qesmat = s02.length;
+const qesmat = s03.length;
 AkharinUploadQesmat.innerHTML = qesmat;
 
 const HomePage = document.querySelector('#articleKhane');
