@@ -248,6 +248,12 @@ const s02 = [
 const s03 = [
     {episode: "S03E01: The Algae's Always Greener",
         download: "https://drive.google.com/file/d/16pI0UfFCXGe1SCVZPOrw8xl2IfbNG9bP/view?usp=drivesdk"
+    },
+    {episode:"S03E02: SpongeGuard on Duty",
+        download:"https://drive.google.com/file/d/1MBFEdpLLJUPMwTnnJuuAjMAHP3dzlrvB/view?usp=drive_link"
+    },
+    {episode:"S03E03: Club SpongeBob",
+        download:"https://drive.google.com/file/d/1WjVj25JYyHwOLYlkjUBmLTZ9oEH8ewbo/view?usp=drive_link"
     }
 
 ];
@@ -348,6 +354,7 @@ s03.forEach(item => {
 selectedSeasons.addEventListener("change", function(){
     boxS01.classList.add('hidden');
     boxS02.classList.add('hidden');
+    boxS03.classList.add("hidden")
 
     if (this.value === 'S01') {
         boxS01.classList.remove('hidden');
