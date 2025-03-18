@@ -254,8 +254,16 @@ const s03 = [
     },
     {episode:"S03E03: Club SpongeBob",
         download:"https://drive.google.com/file/d/1WjVj25JYyHwOLYlkjUBmLTZ9oEH8ewbo/view?usp=drive_link"
+    },
+    {episode: 'S05E04: My Pretty Seahorse',
+        download: 'https://drive.google.com/file/d/1OsVKp4kI5dcecaTgUxoXl-XCIOUbXjT5/view?usp=drive_link',
+    },
+    {episode: 'S05E05: Just One Bite',
+        download: 'https://drive.google.com/file/d/1qGSsUTJ1Xh2dAReyMqo6ju1V1VEWGSQB/view?usp=drive_link',
+    },
+    {episode: 'S05E06: The Bully',
+        download: 'https://drive.google.com/file/d/1BRdxnGUz5Qt03N5iw78BSZnaL8i7GUmE/view?usp=drive_link',
     }
-
 ];
 
 const allSeason = [...s01, ...s02, ...s03];
