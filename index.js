@@ -263,6 +263,12 @@ const s03 = [
     },
     {episode: 'S03E06: The Bully',
         download: 'https://drive.google.com/file/d/1BRdxnGUz5Qt03N5iw78BSZnaL8i7GUmE/view?usp=drive_link',
+    },
+    {episode: 'S03E07: Nasty Patty',
+        download: 'https://drive.google.com/file/d/1_9RUZWII3ziswFovf52G7mYE5nndVXIf/view?usp=drive_link'
+    },
+    {episode: 'S03E08: Idiot Box',
+        download: 'https://drive.google.com/file/d/1pmmjb_Fz4yh1AHSE9SxU-TzTubKk0NJA/view?usp=drive_link'
     }
 ];
 
