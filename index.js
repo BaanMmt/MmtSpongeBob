@@ -269,6 +269,24 @@ const s03 = [
     },
     {episode: 'S03E08: Idiot Box',
         download: 'https://drive.google.com/file/d/1pmmjb_Fz4yh1AHSE9SxU-TzTubKk0NJA/view?usp=drive_link'
+    },
+    {episode: 'S03E09: Mermaidman and Barnacleboy IV',
+        download: 'https://drive.google.com/file/d/1ewD3PLzRUs6LTOR341R5AhszIwjmU3NY/view?usp=drive_link'
+    },
+    {episode: 'S03E10: Doing Time',
+        download: 'https://drive.google.com/file/d/1GbdEOYmqpFhyVpAG1j1wyGoCDkdCpOKe/view?usp=drive_link'
+    },
+    {episode: 'S03E11: Snowball Effect',
+        download: 'https://drive.google.com/file/d/17oOEWtPGzVU_yCzhhPPYTyVqhooMX4Gb/view?usp=drive_link'
+    },
+    {episode: "S03E12: One Krab's Trash",
+        download: 'https://drive.google.com/file/d/1vRT1O19WJcOtMxTf1dXPG2_uH8KoRJXk/view?usp=drive_link'
+    },
+    {episode: 'S03E13: As Seen on TV',
+        download: 'https://drive.google.com/file/d/1xekx_xU_N-VrphMl-m3djmHWQSar0Hbe/view?usp=drive_link'
+    },
+    {episode: 'S03E14: Can You Spare a Dime?',
+        download: 'https://drive.google.com/file/d/1YXkMUbW5xKERBFV4RB_TmcKqxtHUacV-/view?usp=drive_link'
     }
 ];
 
